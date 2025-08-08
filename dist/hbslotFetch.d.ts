@@ -5,6 +5,7 @@ declare namespace HbslotFetch {
             keyword: string;
             startDate: string;
             endDate: string;
+            remain: number;
             rank: number;
             time: string;
             mid: number;
